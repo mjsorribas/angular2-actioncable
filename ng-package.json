@@ -3,7 +3,7 @@
   "lib": {
     "entryFile": "index.ts"
   },
-  "whitelistedNonPeerDependencies": [
+  "allowedNonPeerDependencies": [
     "@rails/actioncable"
   ]
 }
